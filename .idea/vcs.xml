@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/downstream-app" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/tackle-public-api" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/tackle-upstream-api" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/tackle-upstream-api/upstreamapi/casmodels" vcs="Git" />
+  </component>
+</project>
